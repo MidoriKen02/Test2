@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.Callable;
 import java.util.function.*;
-
+//aaa
 public class Main {
     public static void main(String[] args) {
         //Predicate<T>   boolean test(T t)
